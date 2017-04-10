@@ -15,7 +15,7 @@ namespace junk.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page first of all.";
 
             return View();
         }
